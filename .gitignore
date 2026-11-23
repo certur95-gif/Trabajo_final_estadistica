@@ -1,0 +1,9 @@
+.RData
+.Rhistory
+.Rproj.user
+*.zip
+*.docx
+*.RDataTmp
+.httr-oauth
+.DS_Store
+.quarto
