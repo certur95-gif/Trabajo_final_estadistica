@@ -1,0 +1,5 @@
+"modelo","RMSE","MAE","R2","MAPE","MASE","supera_ingenuo_segun_MASE","interpretacion_MASE"
+"XGBoost autoregresivo",33.9282110896239,23.0152838224994,0.883892013945159,20.5704437038403,0.240422649148694,"Si","Mejor que el modelo ingenuo estacional"
+"XGBoost combinado",44.6846744762261,30.2126872337305,0.798600973914691,24.3087223797631,0.31560828702592,"Si","Mejor que el modelo ingenuo estacional"
+"XGBoost climatico",118.49290058774,89.1366870024422,-0.416200784130747,66.9454276525153,0.931141175174862,"Si","Mejor que el modelo ingenuo estacional"
+"Ingenuo estacional lag52",153.650731107311,109.150943396226,-1.38127433514431,117.168482360163,1.14021444057734,"No","Peor que el modelo ingenuo estacional"

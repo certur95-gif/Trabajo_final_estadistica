@@ -1,0 +1,5 @@
+"Modelo,""N.º de predictores"",""Predictores principales"",""MAE 2024"",""MASE 2024"",""RMSE 2025"",""MAE 2025"",""R² 2025"",""MAPE 2025 (%)"",""MASE 2025"""
+"XGBoost climatico,86,""Variables climaticas, anomalias, rezagos climaticos y estacionalidad"",103.31,1.14,118.49,89.14,-0.42,67,0.93"
+"XGBoost autoregresivo,17,""Rezagos de casos, medias moviles y estacionalidad"",32.97,0.36,33.93,23.02,0.88,67,0.24"
+"XGBoost combinado,101,""Rezagos de casos, variables climaticas y estacionalidad"",42.08,0.47,44.68,30.21,0.8,67,0.32"
+"Ingenuo estacional lag52,1,""Casos observados 52 semanas antes"",122.04,1.35,153.65,109.15,-1.38,67,1.14"

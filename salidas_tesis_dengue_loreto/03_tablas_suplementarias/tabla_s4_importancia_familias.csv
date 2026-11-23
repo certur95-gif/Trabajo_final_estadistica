@@ -1,0 +1,6 @@
+"familia","Gain_total","Cover_total","Frequency_total","porcentaje_Gain"
+"Autoregresiva",0.93,0.16,0.15,93.2
+"Temperatura",0.03,0.4,0.39,93.2
+"Precipitacion",0.02,0.25,0.28,93.2
+"Humedad relativa",0.01,0.18,0.18,93.2
+"Estacional",0.01,0.01,0.01,93.2

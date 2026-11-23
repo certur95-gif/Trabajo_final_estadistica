@@ -1,0 +1,9 @@
+"Modelo","Alta incidencia","n","Observado promedio","Predicho promedio","MAE","Sesgo promedio"
+"Ingenuo estacional lag52","Sí",6,324.67,111.83,212.83,212.83
+"Ingenuo estacional lag52","No",47,104.62,160.49,95.91,-55.87
+"XGBoost autoregresivo","Sí",6,324.67,257.06,67.61,67.61
+"XGBoost autoregresivo","No",47,104.62,102.08,17.32,2.53
+"XGBoost climatico","Sí",6,324.67,85.75,238.91,238.91
+"XGBoost climatico","No",47,104.62,69.45,70.02,35.17
+"XGBoost combinado","Sí",6,324.67,226.5,98.16,98.16
+"XGBoost combinado","No",47,104.62,97.47,21.54,7.14

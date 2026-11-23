@@ -1,0 +1,4 @@
+"modelo","max_depth","eta","subsample","colsample_bytree","min_child_weight","lambda","alpha","nrounds","metodo_tuning","mae_cv"
+"climatico",2,0.04,0.69,0.96,13.54,5.34,2.33,300,"busqueda_aleatoria",105.33
+"autoregresivo",2,0.13,0.8,1,14.59,1.49,2.88,550,"busqueda_aleatoria",35.02
+"combinado",2,0.24,0.93,0.92,16.08,0.06,1.38,200,"busqueda_aleatoria",37.68
